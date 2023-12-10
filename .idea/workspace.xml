@@ -7,8 +7,13 @@
     <list default="true" id="82f37fb1-1af8-42b0-a4dc-c381ada8a3f1" name="Changes" comment="Init">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/init_data/InitData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/init_data/InitData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/flowers/ValidFlower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/flowers/ValidFlower.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/init_data/accessories/accessories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/init_data/accessories/accessories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/init_data/bouquet/bouquet_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/init_data/bouquet/bouquet_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/init_data/bouquet/bouquet_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/init_data/bouquet/bouquet_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/init_data/flowers/flowers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/init_data/flowers/flowers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/menu/commands/flowers/input_data/FlowersInputMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/menu/commands/flowers/input_data/FlowersInputMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,11 +49,13 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Desktop/Class diagram.drawio&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.uml&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -91,6 +98,13 @@
       <workItem from="1701774932369" duration="37593000" />
       <workItem from="1701815526426" duration="574000" />
       <workItem from="1701899450809" duration="1197000" />
+      <workItem from="1701924854329" duration="264000" />
+      <workItem from="1702144495827" duration="41000" />
+      <workItem from="1702234058842" duration="1101000" />
+      <workItem from="1702235546177" duration="625000" />
+      <workItem from="1702236252831" duration="72000" />
+      <workItem from="1702236883288" duration="21000" />
+      <workItem from="1702237037430" duration="65000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
@@ -151,11 +165,6 @@
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/menu/commands/ExitCommand.java</url>
           <line>28</line>
           <option name="timeStamp" value="36" />
@@ -172,5 +181,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
